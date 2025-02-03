@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋!!
 
 I am a Advait bavsar, an ambitious Engineering Graduate from the University of Mumbai, where I pursued a Bachelor of Engineering in Electronics and Communication. With a deep-rooted passion for technology and problem-solving, I have honed my expertise in several cutting-edge fields such as Data Analytics, Data Science, and the Internet of Things (IoT). My academic journey has equipped me with a solid foundation in both hardware and software, enabling me to bridge the gap between theoretical knowledge and practical applications.
 
